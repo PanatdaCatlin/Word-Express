@@ -2,7 +2,7 @@
     display: none;
 };
 
-textarea#user-input {
+#user-input {
     min-width: 400px;
     min-height: 200px;
 }
